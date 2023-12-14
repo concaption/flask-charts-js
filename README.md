@@ -2,6 +2,7 @@
 
 This project is an example of how to implement charts using Flask/RestX as a backend server, ChartJS for charting, and Bootstrap 5 for styling.
 
+![screenshot.png](screenshot.png)
 ## Project Structure
 
 ```
